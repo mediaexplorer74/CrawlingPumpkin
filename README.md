@@ -20,7 +20,6 @@ You are in a cemetery, inside a PUMPKIN, hehe! It's Halloween theme/time :)
 ## References
 - https://whateverdat.itch.io/crawling-pumpkin Original Crawling Pumpkin game (for desktop & web/online "game modes")
 - https://whateverdat.itch.io Original Crawling Pumpkin developer
-- Silly Ghosts page (AG.RU) : https://ag.ru/games/silly-ghosts 
 
 
 ## ..
